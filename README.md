@@ -5,6 +5,9 @@
 배움을 게을리하지 않고 꾸준히 발전해 나가겠습니다.<br>
 I will continue to develop without neglecting learning.
 
+<img src="https://img.shields.io/badge/StackEdit-606060?style=for-the-badge&logo=StackEdit&logoColor=white">스택
+
+
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
