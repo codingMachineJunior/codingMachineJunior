@@ -6,8 +6,7 @@
 I will continue to develop without neglecting learning.
 
 <img src="https://img.shields.io/badge/Eclipse-#2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-
-<img src="#2C2255">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
