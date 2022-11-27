@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+백엔드 개발자가 꿈인 이준호입니다.
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
