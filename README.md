@@ -15,7 +15,7 @@ I will continue to develop without neglecting learning.
 <br>
 💼 <b style="font-size:16pt">Tool</b>
 
-<br> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-F7DF1E?style=for-the-badge&logo=DBeaver&logoColor=white">
+<br> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-F7DF1E?style=for-the-badge&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/VScode-F7DF1E?style=for-the-badge&logo=VScode&logoColor=white">
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
