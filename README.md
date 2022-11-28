@@ -5,6 +5,9 @@
 배움을 게을리하지 않고 꾸준히 발전해 나가겠습니다.<br>
 I will continue to develop without neglecting learning.
 
+
+
+
 ✈ <b>STACK</b>
 
 
