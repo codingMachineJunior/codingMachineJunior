@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-백엔드 개발자가 꿈인 이준호입니다.
+백엔드 개발자가 꿈인 이준호입니다.<br>
 배움을 게을리하지 않고 꾸준히 발전해 나가겠습니다.<br>
 
-I am Junho Lee, who dreams of becoming a backend developer.
+I am Junho Lee, who dreams of becoming a backend developer.<br>
 I will continue to develop without neglecting learning.
 
 
