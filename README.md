@@ -7,9 +7,9 @@ I am Junho Lee, who dreams of becoming a backend developer.<br>
 I will continue to develop without neglecting learning.
 
 <br>
-✈ <b>STACK</b><br>
+✈ <b>STACK</b>
 
-
+<br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
