@@ -10,7 +10,7 @@ I will continue to develop without neglecting learning.
 ✈ <b style="font-size:16pt">Stack</b>
 
 
-<br><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<br><img src="https://camo.githubusercontent.com/372dfe5550512c1…c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <!--
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
