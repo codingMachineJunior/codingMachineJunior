@@ -24,11 +24,13 @@ I will continue to develop without neglecting learning.
 <h3>🧰 Tool</h3>
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-A06FFB?style=flat-square&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-964b00?style=flat-square&logo=DBeaver&logoColor=white"/>
+  
 </p>
-<!--
+<!-
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
