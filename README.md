@@ -5,7 +5,7 @@
 배움을 게을리하지 않고 꾸준히 발전해 나가겠습니다.<br>
 I will continue to develop without neglecting learning.
 
-✈<b style="font-size:20pt">STACK</b>
+✈<b style="font-size:30pt">STACK</b>
 
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
