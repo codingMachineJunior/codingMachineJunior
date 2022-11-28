@@ -7,7 +7,7 @@ I am Junho Lee, who dreams of becoming a backend developer.<br>
 I will continue to develop without neglecting learning.
 
 <br>
-✈ <b style="font-size:16pt">Tool</b>
+✈ <b style="font-size:16pt">Stack</b>
 
 
 <br><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
