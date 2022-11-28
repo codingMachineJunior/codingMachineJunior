@@ -6,9 +6,7 @@
 I am Junho Lee, who dreams of becoming a backend developer.<br>
 I will continue to develop without neglecting learning.
 
-
-
-<br><br><br>
+<br><br>
 ✈ <b>STACK</b>
 
 
