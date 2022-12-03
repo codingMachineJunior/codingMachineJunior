@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/DBeaver-964b00?style=flat-square&logo=DBeaver&logoColor=white"/>
   
 </p>
-  <h3>studying</h3>
+  <h3>📚Studying</h3>
   <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
