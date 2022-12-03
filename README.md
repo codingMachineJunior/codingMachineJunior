@@ -5,15 +5,6 @@
 
 <br>
 <div align="center">
-<h3>🚀 Stack</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-E61845?style=flat-square&logo=Oracle&logoColor=white"/>
-</p>
 
 <h3>🧰 Tool</h3>
 <p>
@@ -23,6 +14,14 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-964b00?style=flat-square&logo=DBeaver&logoColor=white"/>
   
+</p>
+  <h3>studying</h3>
+  <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-E61845?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
  </div>
 <!-- <!-
