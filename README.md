@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-964b00?style=flat-square&logo=DBeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/android-964b00?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android studio-964b00?style=flat-square&logo=android studio&logoColor=white"/>
 </p>
   <h3>📚Studying</h3>
   <p>
