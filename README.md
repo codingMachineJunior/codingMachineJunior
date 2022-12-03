@@ -4,9 +4,10 @@
 배움을 게을리하지 않고 꾸준히 발전해 나가겠습니다.<br>
 
 <br>
-<h3 style="text-align:center">🚀 Stack</h3>
+<div align="center">
+<h3>🚀 Stack</h3>
 
-<p style="text-align:center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -14,8 +15,8 @@
   <img src="https://img.shields.io/badge/Oracle-E61845?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 
-<h3 style="text-align:center">🧰 Tool</h3>
-<p style="text-align:center">
+<h3>🧰 Tool</h3>
+<p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
@@ -23,7 +24,8 @@
   <img src="https://img.shields.io/badge/DBeaver-964b00?style=flat-square&logo=DBeaver&logoColor=white"/>
   
 </p>
-<!-
+ </div>
+<!-- <!-
 **codingMachineJunior/codingMachineJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
@@ -37,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
